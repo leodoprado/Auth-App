@@ -35,4 +35,26 @@ export const Container = styled.div`
             margin-left: 2px;
         }
     }
+
+    .user {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 20px;
+        
+        img {
+            width: 140px;
+            height: 140px;
+            border-radius: 70px;
+            margin-bottom: 15px;
+        }
+
+        strong {
+            font-size: 24px;
+        }
+
+        small {
+            font-size: 18px;
+        }
+    }
 `

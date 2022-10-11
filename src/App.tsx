@@ -1,4 +1,4 @@
-import SignIn from "./Pages/SignIn"
+import SignIn from "./pages/SignIn"
 
 export default function App() {
   
