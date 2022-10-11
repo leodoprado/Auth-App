@@ -1,4 +1,4 @@
-#  Authentication app with Google Account + Firebase 🔒
+# Google account authentication app with Firebase 🔒
 
 ### Aplicação desenvolvida com `TypeScript + React ⚛️`
 
